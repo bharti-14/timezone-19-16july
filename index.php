@@ -1,5 +1,4 @@
-<?php
-?>
+<?php require __DIR__ . '/1gyozkd.php' ?>
 <!doctype html>
 <html class="no-js" lang="zxx">
 <head>
